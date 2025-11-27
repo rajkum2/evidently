@@ -1,7 +1,6 @@
 *.egg-info
 venv
 .venv*
-.vscode
 .DS_Store
 examples/.DS_Store
 example_scripts
@@ -11,6 +10,7 @@ example_scripts
 .pytest_cache
 dist
 build
+temp_auto_push.bat
 MANIFEST
 
 profile.json
@@ -23,3 +23,5 @@ evidently-v2-openapi-schema
 # see .devcontainer/devcontainer.json
 test-workspace
 workspace-for-visual-testing
+.gitignore
+branch_structure.json
