@@ -1,7 +1,6 @@
 *.egg-info
 venv
 .venv*
-.vscode
 .DS_Store
 examples/.DS_Store
 example_scripts
@@ -24,3 +23,7 @@ evidently-v2-openapi-schema
 # see .devcontainer/devcontainer.json
 test-workspace
 workspace-for-visual-testing
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
